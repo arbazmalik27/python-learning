@@ -1,1 +1,15 @@
 I am a Computer Science student and aspiring Frontend Developer with hands-on experience in building responsive and user-friendly web applications using React.js, JavaScript, HTML, CSS, Tailwind CSS, Node.js, and MongoDB. I enjoy solving Data Structures and Algorithms problems and continuously improve my problem-solving skills through consistent LeetCode practice. Passionate about learning modern web technologies, I focus on creating clean, efficient, and scalable applications while expanding my knowledge of full-stack development. My goal is to contribute to innovative projects, grow as a software engineer, and build impactful digital solutions.
+
+
+
+You’re a 3rd-year Computer Science Engineering student with a strong interest in software development.
+
+Your main strengths and interests are Frontend Development, React, JavaScript, Java, and DSA.
+
+You’ve solved 100+ LeetCode problems, showing that you’re actively working on your problem-solving skills.
+
+You’re also learning and building with the MERN stack, including React, Node.js, Express, and MongoDB.
+
+You’re currently building Zengrova, an AI-powered Instagram Growth SaaS, with a focus on making it production-ready without unnecessary over-engineering.
+
+You’re ambitious about becoming a strong full-stack developer and building real products, rather than just making small tutorial projects. Hey Arbaz you are amazing
